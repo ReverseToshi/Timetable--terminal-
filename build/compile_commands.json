@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/home/toshi/Documents/NTU-Timetable/build",
+  "command": "/usr/bin/g++ -I/home/toshi/Documents/NTU-Timetable/Headers -I/home/toshi/Documents/NTU-Timetable/sqlite3 -g -o CMakeFiles/NTU_TimeTable.dir/src/Main.cpp.o -c /home/toshi/Documents/NTU-Timetable/src/Main.cpp",
+  "file": "/home/toshi/Documents/NTU-Timetable/src/Main.cpp",
+  "output": "CMakeFiles/NTU_TimeTable.dir/src/Main.cpp.o"
+},
+{
+  "directory": "/home/toshi/Documents/NTU-Timetable/build",
+  "command": "/usr/bin/gcc -I/home/toshi/Documents/NTU-Timetable/Headers -I/home/toshi/Documents/NTU-Timetable/sqlite3 -g -o CMakeFiles/NTU_TimeTable.dir/sqlite3/sqlite3.c.o -c /home/toshi/Documents/NTU-Timetable/sqlite3/sqlite3.c",
+  "file": "/home/toshi/Documents/NTU-Timetable/sqlite3/sqlite3.c",
+  "output": "CMakeFiles/NTU_TimeTable.dir/sqlite3/sqlite3.c.o"
+},
+{
+  "directory": "/home/toshi/Documents/NTU-Timetable/build",
+  "command": "/usr/bin/g++ -I/home/toshi/Documents/NTU-Timetable/Headers -I/home/toshi/Documents/NTU-Timetable/sqlite3 -g -o CMakeFiles/NTU_TimeTable.dir/src/Admin.cpp.o -c /home/toshi/Documents/NTU-Timetable/src/Admin.cpp",
+  "file": "/home/toshi/Documents/NTU-Timetable/src/Admin.cpp",
+  "output": "CMakeFiles/NTU_TimeTable.dir/src/Admin.cpp.o"
+},
+{
+  "directory": "/home/toshi/Documents/NTU-Timetable/build",
+  "command": "/usr/bin/g++ -I/home/toshi/Documents/NTU-Timetable/Headers -I/home/toshi/Documents/NTU-Timetable/sqlite3 -g -o CMakeFiles/NTU_TimeTable.dir/src/User.cpp.o -c /home/toshi/Documents/NTU-Timetable/src/User.cpp",
+  "file": "/home/toshi/Documents/NTU-Timetable/src/User.cpp",
+  "output": "CMakeFiles/NTU_TimeTable.dir/src/User.cpp.o"
+},
+{
+  "directory": "/home/toshi/Documents/NTU-Timetable/build",
+  "command": "/usr/bin/g++ -I/home/toshi/Documents/NTU-Timetable/Headers -I/home/toshi/Documents/NTU-Timetable/sqlite3 -g -o CMakeFiles/NTU_TimeTable.dir/src/Student.cpp.o -c /home/toshi/Documents/NTU-Timetable/src/Student.cpp",
+  "file": "/home/toshi/Documents/NTU-Timetable/src/Student.cpp",
+  "output": "CMakeFiles/NTU_TimeTable.dir/src/Student.cpp.o"
+},
+{
+  "directory": "/home/toshi/Documents/NTU-Timetable/build",
+  "command": "/usr/bin/g++ -I/home/toshi/Documents/NTU-Timetable/Headers -I/home/toshi/Documents/NTU-Timetable/sqlite3 -g -o CMakeFiles/NTU_TimeTable.dir/src/Tutor.cpp.o -c /home/toshi/Documents/NTU-Timetable/src/Tutor.cpp",
+  "file": "/home/toshi/Documents/NTU-Timetable/src/Tutor.cpp",
+  "output": "CMakeFiles/NTU_TimeTable.dir/src/Tutor.cpp.o"
+},
+{
+  "directory": "/home/toshi/Documents/NTU-Timetable/build",
+  "command": "/usr/bin/g++ -I/home/toshi/Documents/NTU-Timetable/Headers -I/home/toshi/Documents/NTU-Timetable/sqlite3 -g -o CMakeFiles/NTU_TimeTable.dir/src/SQL.cpp.o -c /home/toshi/Documents/NTU-Timetable/src/SQL.cpp",
+  "file": "/home/toshi/Documents/NTU-Timetable/src/SQL.cpp",
+  "output": "CMakeFiles/NTU_TimeTable.dir/src/SQL.cpp.o"
+},
+{
+  "directory": "/home/toshi/Documents/NTU-Timetable/build",
+  "command": "/usr/bin/g++ -I/home/toshi/Documents/NTU-Timetable/Headers -I/home/toshi/Documents/NTU-Timetable/sqlite3 -g -o CMakeFiles/NTU_TimeTable.dir/src/Session.cpp.o -c /home/toshi/Documents/NTU-Timetable/src/Session.cpp",
+  "file": "/home/toshi/Documents/NTU-Timetable/src/Session.cpp",
+  "output": "CMakeFiles/NTU_TimeTable.dir/src/Session.cpp.o"
+},
+{
+  "directory": "/home/toshi/Documents/NTU-Timetable/build",
+  "command": "/usr/bin/g++ -I/home/toshi/Documents/NTU-Timetable/Headers -I/home/toshi/Documents/NTU-Timetable/sqlite3 -g -o CMakeFiles/NTU_TimeTable.dir/src/Timetable.cpp.o -c /home/toshi/Documents/NTU-Timetable/src/Timetable.cpp",
+  "file": "/home/toshi/Documents/NTU-Timetable/src/Timetable.cpp",
+  "output": "CMakeFiles/NTU_TimeTable.dir/src/Timetable.cpp.o"
+},
+{
+  "directory": "/home/toshi/Documents/NTU-Timetable/build",
+  "command": "/usr/bin/g++ -I/home/toshi/Documents/NTU-Timetable/Headers -I/home/toshi/Documents/NTU-Timetable/sqlite3 -g -o CMakeFiles/NTU_TimeTable.dir/src/DateTime.cpp.o -c /home/toshi/Documents/NTU-Timetable/src/DateTime.cpp",
+  "file": "/home/toshi/Documents/NTU-Timetable/src/DateTime.cpp",
+  "output": "CMakeFiles/NTU_TimeTable.dir/src/DateTime.cpp.o"
+},
+{
+  "directory": "/home/toshi/Documents/NTU-Timetable/build",
+  "command": "/usr/bin/g++ -I/home/toshi/Documents/NTU-Timetable/Headers -I/home/toshi/Documents/NTU-Timetable/sqlite3 -g -o CMakeFiles/NTU_TimeTable.dir/src/Module.cpp.o -c /home/toshi/Documents/NTU-Timetable/src/Module.cpp",
+  "file": "/home/toshi/Documents/NTU-Timetable/src/Module.cpp",
+  "output": "CMakeFiles/NTU_TimeTable.dir/src/Module.cpp.o"
+},
+{
+  "directory": "/home/toshi/Documents/NTU-Timetable/build",
+  "command": "/usr/bin/g++ -I/home/toshi/Documents/NTU-Timetable/Headers -I/home/toshi/Documents/NTU-Timetable/sqlite3 -g -o CMakeFiles/NTU_TimeTable.dir/src/Course.cpp.o -c /home/toshi/Documents/NTU-Timetable/src/Course.cpp",
+  "file": "/home/toshi/Documents/NTU-Timetable/src/Course.cpp",
+  "output": "CMakeFiles/NTU_TimeTable.dir/src/Course.cpp.o"
+},
+{
+  "directory": "/home/toshi/Documents/NTU-Timetable/build",
+  "command": "/usr/bin/g++ -I/home/toshi/Documents/NTU-Timetable/Headers -I/home/toshi/Documents/NTU-Timetable/sqlite3 -g -o CMakeFiles/NTU_TimeTable.dir/src/StudentGroup.cpp.o -c /home/toshi/Documents/NTU-Timetable/src/StudentGroup.cpp",
+  "file": "/home/toshi/Documents/NTU-Timetable/src/StudentGroup.cpp",
+  "output": "CMakeFiles/NTU_TimeTable.dir/src/StudentGroup.cpp.o"
+},
+{
+  "directory": "/home/toshi/Documents/NTU-Timetable/build",
+  "command": "/usr/bin/g++ -I/home/toshi/Documents/NTU-Timetable/Headers -I/home/toshi/Documents/NTU-Timetable/sqlite3 -g -o CMakeFiles/NTU_TimeTable.dir/src/Room.cpp.o -c /home/toshi/Documents/NTU-Timetable/src/Room.cpp",
+  "file": "/home/toshi/Documents/NTU-Timetable/src/Room.cpp",
+  "output": "CMakeFiles/NTU_TimeTable.dir/src/Room.cpp.o"
+}
+]

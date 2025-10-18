@@ -1,0 +1,32 @@
+Added module: COMP20212 Data Analytics & Programming for year 2
+Deleted Module: 
+Deleted Module: COMP20121
+Updated module: COMP20081 Sys Sfw for year 2
+Added module: 20121 Foudations of AI & ML for year 2
+Added Course: COMP183 Computer Science Artificial Intelligence(Hons)
+Deleted Module: COMP20212
+Updated module: COMP20081 System's Software for year 2
+Added student group: CSAI_1
+Connected Group CSAI_1 with course COMP183
+Added Course: COMP141 Computer Science (Hons)
+Added Course: COMP153 Software Engineering
+Added student group: LEC_1
+Connected Group LEC_1 with course COMP143
+Added student group: LEC_1
+Connected Group LEC_1 with course COMP153
+Connected Group LEC_1 with course COMP141
+Added student group: LEC_1
+Connected Group LEC_1 with course COMP153
+Connected Group LEC_1 with course COMP141
+Added student group: LEC_!
+Connected Group LEC_! with course COMP183
+Deleted Student Group: LEC_!
+Added student group: LEC_1
+Connected Group LEC_1 with course COMP141
+Connected Group LEC_1 with course COMP183
+Connected Group LEC_2 with course COMP141
+Connected Group LEC_2 with course COMP153
+Connected Group LEC_2 with course COMP183
+Deleted session: 
+ted timetable for week: 
+ated timetable for week: 

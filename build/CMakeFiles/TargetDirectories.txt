@@ -1,0 +1,3 @@
+/home/toshi/Documents/NTU-Timetable/build/CMakeFiles/NTU_TimeTable.dir
+/home/toshi/Documents/NTU-Timetable/build/CMakeFiles/edit_cache.dir
+/home/toshi/Documents/NTU-Timetable/build/CMakeFiles/rebuild_cache.dir
